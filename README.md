@@ -54,10 +54,13 @@ The final model was trained using **Random Forest Classifier** and evaluated usi
 * Precision-Recall Curve (PRAUC)
 
 ---
-
 ## Dataset
 
-Credit Card Fraud Detection Dataset (Kaggle)
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+You can download it from Kaggle:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
